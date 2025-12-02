@@ -1,6 +1,7 @@
 #pragma once
-
 class antenna_calc{
+
+
 
 private:
     double  frequency_MHz;
