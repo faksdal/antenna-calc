@@ -1,4 +1,6 @@
 # antenna-calc
 
-Calculates antenna aprameters for di-pole, elemnt lengths and distance between tip
+Calculates antenna parameters for di-pole, element lengths and distance between
+tips.
+
 
